@@ -17,8 +17,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 # 🔧 CONFIGURATION
 # ==============================================================
 
-GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-GOOGLE_CX = os.getenv("GOOGLE_CX")
+GOOGLE_API_KEY = "AIzaSyCOnc1cUHkUJ_cMIH2IAXvKGQ8mbtXD0B8"
+GOOGLE_CX = os.getenv("f24bd79a3178d43f3")
 
 HEADERS = {
     "User-Agent": (
